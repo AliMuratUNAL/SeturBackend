@@ -1,0 +1,6 @@
+@ContactService_HostAddress = http://localhost:5265
+
+GET {{ContactService_HostAddress}}/contactInfo/
+Accept: application/json
+
+###
